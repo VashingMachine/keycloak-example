@@ -1,0 +1,8 @@
+{
+  "realm": "SIZ",
+  "auth-server-url": "https://35.198.132.62/auth",
+  "ssl-required": "external",
+  "resource": "node",
+  "public-client": true,
+  "confidential-port": 0
+}
